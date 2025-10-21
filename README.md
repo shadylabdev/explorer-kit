@@ -213,3 +213,17 @@ We welcome all contributions to Explorer Kit! Feel free to open a pull request o
 ## License
 
 Explorer Kit is licensed under the [GNU v3](/LICENSE)
+
+---
+
+## 🧩 Ecosystem Integrations
+
+**Projects leveraging SolanaFM’s explorer and parsing capabilities:**
+
+- **Shady** — Solana privacy toolkit integrating with ZK-based access and stealth primitives.  
+  Features **Stealth Address**, **ZK Gate (view key)**, and **Private Swap** (Raydium aggregator + ZK access layer).  
+  🌐 Website: [https://www.shady.to](https://www.shady.to)  
+  📘 Docs: [https://shadylabs.gitbook.io/shadylabs-docs/](https://shadylabs.gitbook.io/shadylabs-docs/)  
+  💬 Twitter: [https://x.com/Shady_Labs](https://x.com/Shady_Labs)  
+  💻 GitHub: [https://github.com/shadylabdev/shady](https://github.com/shadylabdev/shady)
+
